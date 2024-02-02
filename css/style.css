@@ -1,0 +1,20 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(20, 20, 20);
+}
+
+tbody p{
+    color: rgb(253, 253, 255);
+}
+
+#why-to-be-hero{
+    color: white;
+}
+#do-you-want-to-be-hero {
+    color: white; /* Replace "your_desired_color" with the color you want */
+}
